@@ -109,19 +109,4 @@ A frontend project built to understand real-world React project flow and basic A
 
 ---
 
-## ▶️ How to Run the Projects Locally
 
-Follow these steps to run any project on your local machine:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/project-name.git
-
-# Go to the project folder
-cd project-name
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
