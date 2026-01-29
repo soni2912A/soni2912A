@@ -1,6 +1,6 @@
-#  Hi, I'm a Frontend Developer (Fresher)
+#  Hi, I'm a Fullstack Developer (Fresher)
 
-I am a passionate **Frontend Developer (Fresher)** with a strong foundation in **HTML, CSS, JavaScript, and React.js**.  
+I am a passionate **Fullstack Developer ** with a strong foundation in **HTML, CSS, JavaScript, and React.js**.  
 I enjoy building responsive, user-friendly web applications and continuously improving my frontend skills by working on real projects.
 
 I have built **2 frontend projects using React.js**, focusing on clean UI, reusable components, and basic application logic.  
