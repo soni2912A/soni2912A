@@ -1,14 +1,14 @@
-# 👋 Hi, I'm a Frontend Developer (Fresher)
+#  Hi, I'm a Frontend Developer (Fresher)
 
 I am a passionate **Frontend Developer (Fresher)** with a strong foundation in **HTML, CSS, JavaScript, and React.js**.  
 I enjoy building responsive, user-friendly web applications and continuously improving my frontend skills by working on real projects.
 
-I have built **3 frontend projects using React.js**, focusing on clean UI, reusable components, and basic application logic.  
+I have built **2 frontend projects using React.js**, focusing on clean UI, reusable components, and basic application logic.  
 I am currently looking for an **entry-level frontend / junior frontend developer** opportunity where I can learn, grow, and contribute.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Frontend
 - HTML5  
@@ -22,7 +22,7 @@ I am currently looking for an **entry-level frontend / junior frontend developer
 - Basic React Router  
 
 ### Backend (Basics)
-- Node.js (basic understanding)
+- Node.js
 - REST API concepts
 
 ### Tools & Platforms
@@ -33,74 +33,59 @@ I am currently looking for an **entry-level frontend / junior frontend developer
 
 ---
 
-## 📂 Projects
+##  Projects
+ Project 1: Movement Studio – Dance Class Website
 
-### 🔹 Project 1: React Project Name
-**Description:**  
-A frontend web application built using React.js to practice component-based architecture and state management.
+Technologies:
+React.js, HTML5, CSS3, JavaScript, Figma
+Year: 2025
 
-**Key Features:**
-- Reusable React components
-- Responsive UI
-- Form handling and basic validation
+Project Description
 
-**Tech Stack:**
-- React.js  
-- HTML  
-- CSS  
-- JavaScript  
+Movement Studio is a fully responsive dance class website designed to showcase studio services, class schedules, and encourage user engagement. The UI was developed based on Figma designs with a focus on modern aesthetics and usability.
 
-**What I Learned:**
-- Creating and structuring React components
-- Using props and state
-- Handling user interactions in React
+Key Features
 
----
+Fully responsive design for mobile, tablet, and desktop
 
-### 🔹 Project 2: React Project Name
-**Description:**  
-A React-based application focused on improving UI design and frontend logic.
+Reusable React components for scalability
 
-**Key Features:**
-- Dynamic data rendering
-- Conditional rendering
-- Clean and structured UI layout
+Modern UI/UX aligned with Figma specifications
 
-**Tech Stack:**
-- React.js  
-- CSS  
-- JavaScript  
+Smooth navigation with clear call-to-action sections
 
-**What I Learned:**
-- Working with React hooks
-- Managing component state
-- Improving UI consistency and code readability
+Optimized performance and fast load times
 
 ---
 
-### 🔹 Project 3: React Project Name
-**Description:**  
-A frontend project built to understand real-world React project flow and basic API usage.
+###  Project 2: React Project Name
+Project 2: Todo Application
 
-**Key Features:**
-- Fetching and displaying data
-- Component reusability
-- Simple error handling
+Technologies:
+React.js, Firebase, HTML5, CSS3
+Year: 2025
 
-**Tech Stack:**
-- React.js  
-- JavaScript  
-- CSS  
-- Basic API integration  
+Project Description
 
-**What I Learned:**
-- Handling asynchronous data
-- Organizing project folders
-- Writing cleaner and maintainable React code
+A feature-rich task management application that allows users to manage daily tasks efficiently with real-time updates and secure authentication.
+
+Key Features
+
+User authentication using Firebase Authentication
+
+CRUD operations (Create, Read, Update, Delete tasks)
+
+Real-time data synchronization with Firestore
+
+Responsive UI for mobile and desktop
+
+Clean and user-friendly interface
 
 ---
 
-## 📚 Currently Learning & Improving
+
+
+## Currently Learning & Improving
 - Advanced React concepts (better state management)
 - Improving JavaScript fundamentals
 - Clean UI design and responsiveness
