@@ -58,7 +58,7 @@ Optimized performance and fast load times
 
 ---
 
-##  Project 2: React Project Name
+##  Project 2: 
 Project 2: Todo Application
 
 Technologies:
