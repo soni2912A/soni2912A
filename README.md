@@ -46,15 +46,25 @@ B2B is a full-stack, multi-tenant corporate bakery management platform built to 
 ## Key Features
 
 Multi-role portals: Super Admin, Business Admin & Corporate User
+
 Full order lifecycle management with state machine
+
 Razorpay payments with refund support
+
 Auto PDF invoicing & scheduled email reports
+
 Google Calendar integration for occasion-based orders
+
 Inventory, product & discount/coupon management
+
 Real-time notifications, chat & support tickets
+
 Role-based access control (RBAC) for staff & teams
+
 Redis-powered background job queues
+
 Referral & subscription/billing system
+
 Secure API with JWT, rate limiting & MongoDB sanitization
 
 
