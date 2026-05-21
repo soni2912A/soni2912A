@@ -1,4 +1,4 @@
-#  Hi, I'm a Fullstack Developer (Fresher)
+#  Hi, I'm a Fullstack Developer 
 
 I am a passionate **Fullstack Developer ** with a strong foundation in **HTML, CSS, JavaScript, and React.js**.  
 I enjoy building responsive, user-friendly web applications and continuously improving my frontend skills by working on real projects.
@@ -31,10 +31,36 @@ I am currently looking for an **entry-level frontend / junior frontend developer
 - npm  
 - Chrome DevTools  
 
+### Database 
+- Mongoodb
+- MySql
+
 ---
 
-##  Projects
- Project 1: Movement Studio – Dance Class Website
+
+###  Projects : 
+Project 1: B2B Corporate Bakery 
+
+B2B is a full-stack, multi-tenant corporate bakery management platform built to streamline B2B operations between bakery businesses and their corporate clients. The system supports three distinct roles — Super Admin, Business Admin, and Corporate User — each with a dedicated dashboard and scoped permissions. Built with a modern React + Vite frontend and a robust Node.js/Express backend, the platform handles everything from order lifecycle management to automated invoicing and delivery tracking.
+
+## Key Features
+
+Multi-role portals: Super Admin, Business Admin & Corporate User
+Full order lifecycle management with state machine
+Razorpay payments with refund support
+Auto PDF invoicing & scheduled email reports
+Google Calendar integration for occasion-based orders
+Inventory, product & discount/coupon management
+Real-time notifications, chat & support tickets
+Role-based access control (RBAC) for staff & teams
+Redis-powered background job queues
+Referral & subscription/billing system
+Secure API with JWT, rate limiting & MongoDB sanitization
+
+
+
+##  Project
+ Project 2: Movement Studio – Dance Class Website
 
 Technologies:
 React.js, HTML5, CSS3, JavaScript, Figma
@@ -58,8 +84,9 @@ Optimized performance and fast load times
 
 ---
 
-##  Project 2: 
-Project 2: Todo Application
+
+##  Project : 
+Project 3: Todo Application
 
 Technologies:
 React.js, Firebase, HTML5, CSS3
@@ -82,6 +109,8 @@ Responsive UI for mobile and desktop
 Clean and user-friendly interface
 
 ---
+
+
 
 
 
